@@ -18,7 +18,10 @@ prompt-toolkit==1.0.15
 psycopg2==2.7.3.2
 ptyprocess==0.5.2
 Pygments==2.2.0
+<<<<<<< HEAD
 pandas==0.23.4
+=======
+>>>>>>> 052298fbd8bc8900fa0ad703809e9166e47131d9
 simplegeneric==0.8.1
 six==1.11.0
 SQLAlchemy==1.1.15
